@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'TestMudole_Example' do
+  pod 'TestMudole', :path => '../'
+
+  target 'TestMudole_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
