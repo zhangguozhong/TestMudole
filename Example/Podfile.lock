@@ -1,0 +1,16 @@
+PODS:
+  - TestMudole (0.1.0)
+
+DEPENDENCIES:
+  - TestMudole (from `../`)
+
+EXTERNAL SOURCES:
+  TestMudole:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TestMudole: cf6eac9bf9a5e1b87231fcf8c11733e6ba8981fa
+
+PODFILE CHECKSUM: 69cd47d265cc217dc3a066e694391dac88181dc7
+
+COCOAPODS: 1.9.3
